@@ -8,7 +8,7 @@ public class HelloGradleController {
 
     @GetMapping
     public String helloGradle() {
-        return "Hello Gradle!";
+        return "Hello AWS you're terrible!";
     }
 
 }
