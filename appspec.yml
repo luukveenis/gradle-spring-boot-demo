@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: build/libs/gradle-spring-boot-demo.jar
-    destination: /var/app/current
+    destination: /var/app/current/application.jar
