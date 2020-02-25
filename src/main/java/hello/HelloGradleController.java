@@ -8,7 +8,7 @@ public class HelloGradleController {
 
     @GetMapping
     public String helloGradle() {
-        return "Hello AWS you're terrible!";
+        return "Hello, this is CodePipeline + Beanstalk!";
     }
 
 }
