@@ -14,3 +14,4 @@ artifacts:
   files:
     - appspec.yml
     - build/libs/gradle-spring-boot-demo.jar
+  discard-paths: yes
